@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dave1415
 - 👀 I’m interested in exploring new thing
-- 🌱 I’m currently learning python on sololearn 
-and develop Android app using Teta 
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me dawitgetaneh99@gmail.com
 
